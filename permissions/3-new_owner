@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmown hello betty 
+sudo chmown betty hello
