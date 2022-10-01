@@ -3,7 +3,7 @@
 ### Resources
 Read or watch:
 
-- Expansions
+- Expansions 
 - Shell Arithmetic
 - Variables
 - Shell initialization files
