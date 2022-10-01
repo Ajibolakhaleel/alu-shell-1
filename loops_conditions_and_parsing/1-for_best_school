@@ -1,5 +1,5 @@
 #!/usr/bin/env bash 
-printing best school 10 times using a loop 
+# printing best school 10 times using a loop 
 
 for ((i = 1; i<= 10; i++));do
     echo "Best School"
