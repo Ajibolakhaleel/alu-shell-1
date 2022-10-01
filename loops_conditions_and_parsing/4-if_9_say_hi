@@ -1,0 +1,14 @@
+#!/usr/bin/env bash 
+# print best school until the time and print hi 
+i=0
+
+while [ "$i" -lt 10 ]; do 
+    echo "Best School"
+
+    # if statment for hi if the number is 9
+    if [ "$i" -eq 9 ]; then 
+        echo "Hi"
+    fi
+
+    ((i++))
+done 
