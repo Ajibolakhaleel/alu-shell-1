@@ -11,4 +11,6 @@ while [ "$i" -lt 11 ]; do
     else
         echo "Best School"
     fi
+
+    ((i++))
 done 
