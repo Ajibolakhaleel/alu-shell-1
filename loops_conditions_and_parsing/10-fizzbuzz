@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+#a bash file with the fizzbuzz game
+n=1
+while [ "$n" -le 100 ]; do
+    if ! ((n % 3)) && ! ((n % 2));then 
+        echo "Fizzbuzz"
+    elif ! (( n % 3 )); then
+        echo "Fizz"
+    elif ! (( n % 5 )); then
+        echo "Buzz"
+    else
+        echo "$n"
+    fi 
+
+    ((n++))
+done 
