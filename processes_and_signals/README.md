@@ -3,9 +3,9 @@
 ### Resources
 # Read or watch:
 
-- Linux PID
-- Linux process
-- Linux signal
+- [Linux PID](https://alu-intranet.hbtn.io/rltoken/utUTdByy6k-MnIm6MGz2Qw)
+- [Linux process](https://alu-intranet.hbtn.io/rltoken/itNLbGXPhPu59_jrqMquXw)
+- [Linux signal](https://alu-intranet.hbtn.io/rltoken/tfCjWvvcsdHdyHr7GJTRJA)
 
 # man or help:
 - `ps`
