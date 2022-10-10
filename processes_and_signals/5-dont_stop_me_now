@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# A bash file that stops on the kill command 
+
+pgrep -f 4-to_infinity_and_beyond | xargs kill
